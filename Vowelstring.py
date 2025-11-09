@@ -1,6 +1,5 @@
 
 text = "keywords are reversed"
-
 vowels = "aeiouAEIOU"  
 count = 0
 
