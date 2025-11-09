@@ -1,0 +1,6 @@
+name= "fruits"
+cost=200
+print("my name is",name)
+print("the cost",cost)
+print(type(name))
+print(type(cost))
