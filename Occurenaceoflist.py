@@ -6,3 +6,4 @@ def reverse_list(lst):
 numbers = [1, 2, 3, 4, 5]
 print("Original List:", numbers)
 print("Reversed List:", reverse_list(numbers))
+
